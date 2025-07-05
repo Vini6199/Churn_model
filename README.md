@@ -58,7 +58,7 @@ Essas métricas foram medidas tanto no conjunto de validação quanto no teste f
 
 ---
 
-## 🧬 Modelo Principal: XGBoost
+## Modelo Principal: XGBoost
 
 Após comparação entre diferentes algoritmos, o **XGBoost** foi escolhido como modelo final por apresentar:
 
