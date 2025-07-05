@@ -6,7 +6,7 @@ Este projeto implementa um pipeline completo de machine learning para previsão 
 
 ## Objetivo
 
-Identificar quais clientes possuem maior probabilidade de deixar um serviço (churn), a partir de dados históricos, aplicando técnicas modernas de machine learning supervisionado e validação robusta com métricas confiáveis.
+Identificar quais clientes possuem maior probabilidade de deixar um serviço (churn) utilizando dados históricas e técnicas de machine learning
 
 ---
 
