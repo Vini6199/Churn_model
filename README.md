@@ -10,7 +10,7 @@ Identificar quais clientes possuem maior probabilidade de deixar um serviço (ch
 
 ---
 
-## Tecnologias Utilizadas
+## Libs e Algoritmos Utilizados
 
 - Python 3.x  
 - Pandas, NumPy  
@@ -18,8 +18,9 @@ Identificar quais clientes possuem maior probabilidade de deixar um serviço (ch
 - Scikit-learn  
 - XGBoost
 - Optuna
-- LightGBM (para comparação)
-- Regressão Logística, Random Forest (baseline)
+- LightGBM
+- Regressão Logística
+- Random Forest
 
 ---
 
