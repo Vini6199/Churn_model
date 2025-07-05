@@ -52,7 +52,7 @@ Essa abordagem permitiu atingir **performance próxima do ideal (AUC → 1.00)**
 
 A performance dos modelos foi avaliada com base nas seguintes métricas:
 
-- **AUC-ROC** (principal critério de otimização)
+- **AUC-ROC** (principal critério de otimização, pois para churn, é importante que o modelo possa classificar bem independente do thresold)
 - **Matriz de Confusão**
 
 Essas métricas foram medidas tanto no conjunto de validação quanto no teste final, garantindo generalização.
