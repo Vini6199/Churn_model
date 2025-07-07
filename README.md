@@ -1,4 +1,4 @@
-# Modelo de Churn com XGBoost e Otimização via Optuna
+# Modelo de Churn com otimização de hiperparâmetros e escolha de melhor modelo via Optuna
 
 Este projeto implementa um pipeline completo de machine learning para previsão de **churn (evasão de clientes)**, com foco em **modelos robustos de classificação**, especialmente o **XGBoost**, e uso avançado de **Optuna** para otimização automática de hiperparâmetros.
 
