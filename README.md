@@ -10,10 +10,11 @@ Identificar quais clientes possuem maior probabilidade de deixar um serviço (ch
 
 ---
 
-## Libs e Algoritmos Utilizados
+## Linguaguem, Libs e Algoritmos Utilizados
 
-- Python 3.x  
-- Pandas, NumPy  
+- Python 3
+- Pandas
+- Numpy
 - Matplotlib, Seaborn  
 - Scikit-learn  
 - XGBoost
